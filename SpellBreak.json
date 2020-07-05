@@ -1,0 +1,113 @@
+{
+    "Backups": {
+        "SpellBreak": [
+            {
+                "Header": "FortniteGame_12_00.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_00.fbkp",
+                "Size": 17196567
+            },
+            {
+                "Header": "FortniteGame_12_10.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_10.fbkp",
+                "Size": 18597482
+            },
+            {
+                "Header": "FortniteGame_12_20.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_20.fbkp",
+                "Size": 18941218
+            },
+            {
+                "Header": "FortniteGame_12_30.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_30.fbkp",
+                "Size": 19128759
+            },
+            {
+                "Header": "FortniteGame_12_40.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_40.fbkp",
+                "Size": 20226827
+            },
+            {
+                "Header": "FortniteGame_12_41.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_41.fbkp",
+                "Size": 19035255
+            },
+            {
+                "Header": "FortniteGame_12_50.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_50.fbkp",
+                "Size": 19168848
+            },
+            {
+                "Header": "FortniteGame_12_60.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_60.fbkp",
+                "Size": 19336764
+            },
+            {
+                "Header": "FortniteGame_12_61.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_12_61.fbkp",
+                "Size": 19303228
+            },
+            {
+                "Header": "FortniteGame_13_00.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Fortnite/FortniteGame_13_00.fbkp",
+                "Size": 21271550
+            }
+        ],
+        "Valorant": [
+            {
+                "Header": "ShooterGame_0_47.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_0_47.fbkp",
+                "Size": 1570929
+            },
+            {
+                "Header": "ShooterGame_0_49.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_0_49.fbkp",
+                "Size": 1682157
+            },
+            {
+                "Header": "ShooterGame_0_50.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_0_50.fbkp",
+                "Size": 1713600
+            },
+            {
+                "Header": "ShooterGame_1_00.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_1_00.fbkp",
+                "Size": 1997521
+            },
+            {
+                "Header": "ShooterGame_1_01.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_1_01.fbkp",
+                "Size": 2107842
+            },
+            {
+                "Header": "ShooterGame_1_02.fbkp",
+                "DownloadUrl": "http://cdn.asval.tk/d/FModel/Backups/Valorant/ShooterGame_1_02.fbkp",
+                "Size": 2034574
+            }
+        ],
+        "Fortnite": [],
+        "MinecraftDungeons": [],
+        "DeadByDaylight": [],
+        "BattleBreakers": [],
+        "Borderlands3": [],
+        "Unknown": []
+    },
+    "GlobalMessages": {
+        "3.1.0.0": [
+            {
+                "Message": "",
+                "Color": "#EFEFEF",
+                "NewLine": true
+            }
+        ]
+    },
+    "Updater": {
+        "Version": "3.1.0.5",
+        "Url": "https://github.com/iAmAsval/FModel/releases/latest/download/FModel.zip",
+        "Changelog": "https://github.com/iAmAsval/FModel/releases/latest",
+        "Mandatory": {
+            "Value": false,
+            "MinimumVersion": "3.1.0.0",
+            "UpdateMode": 0
+        }
+    }
+}
