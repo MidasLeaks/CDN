@@ -101,7 +101,7 @@
         ]
     },
     "Updater": {
-        "Version": "0.0.0.2",
+        "Version": "0.0.0.1",
         "Url": "https://github.com/MidasLeaks/CDN/SBV.zip",
         "Changelog": "https://github.com/MidasLeaks/CDN/releases/latest",
         "Mandatory": {
