@@ -92,21 +92,21 @@
         "Unknown": []
     },
     "GlobalMessages": {
-        "3.1.0.0": [
+        "0.0.0.1": [
             {
-                "Message": "",
+                "Message": "Psst....Boyfromhel1....This Is WHat Global Messages Are",
                 "Color": "#EFEFEF",
                 "NewLine": true
             }
         ]
     },
     "Updater": {
-        "Version": "3.1.0.5",
-        "Url": "https://github.com/iAmAsval/FModel/releases/latest/download/FModel.zip",
-        "Changelog": "https://github.com/iAmAsval/FModel/releases/latest",
+        "Version": "0.0.0.2",
+        "Url": "https://github.com/MidasLeaks/CDN/SBV.zip",
+        "Changelog": "https://github.com/MidasLeaks/CDN/releases/latest",
         "Mandatory": {
             "Value": false,
-            "MinimumVersion": "3.1.0.0",
+            "MinimumVersion": "0.0.0.1",
             "UpdateMode": 0
         }
     }
